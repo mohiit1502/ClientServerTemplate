@@ -1,0 +1,145 @@
+[
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name": "CHECK PRINT SHIRT - 2",
+        "id": "product-111",
+        "category": "Clothing",
+		"price": {
+            "display": 900,
+            "actual": 324
+        },
+        "discount": 30
+    },
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 3",
+        "id": "product-112",
+        "category": "Clothing",
+		"price": {
+            "display": 2084,
+            "actual": 324
+        },
+        "discount": 24
+	},
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "GLORIA HIGH LOGO SNEAKER - 1",
+        "id": "product-113",
+        "category": "Footwear",
+		"price": {
+            "display": 650,
+            "actual": 324
+        },
+        "discount": 64
+    },
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 4",
+        "id": "product-114",
+        "category": "Clothing",
+		"price": {
+            "display": 3284,
+            "actual": 324
+        },
+        "discount": 80
+	},
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "CATE RIGID BAG - 1",
+        "id": "product-115",
+        "category": "Accessories",
+		"price": {
+            "display": 1838,
+            "actual": 324
+        },
+        "discount": 45
+    },
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 6",
+        "id": "product-116",
+        "category": "Clothing",
+		"price": {
+            "display": 8884,
+            "actual": 324
+        },
+        "discount": 38
+	},
+	{
+		"img_url": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name": "GUESS CONNECT WATCH - 1",
+        "id": "product-117",
+        "category": "Electronics",
+		"price": {
+            "display": 290,
+            "actual": 324
+        },
+        "discount": 22
+	},
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 1",
+        "id": "product-118",
+        "category": "Clothing",
+		"price": {
+            "display": 1284,
+            "actual": 324
+        },
+        "discount": 52
+	},
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+        "name": "CHECK PRINT SHIRT - 1",
+        "id": "product-119",
+        "category": "Clothing",
+		"price": {
+            "display": 900,
+            "actual": 324
+        },
+        "discount": 19
+    },
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 2",
+        "id": "product-120",
+        "category": "Clothing",
+		"price": {
+            "display": 584,
+            "actual": 324
+        },
+        "discount": 32
+	},
+	{
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "'70s RETRO GLAM KEFIAH - 5",
+        "id": "product-121",
+        "category": "Clothing",
+		"price": {
+            "display": 984,
+            "actual": 324
+        },
+        "discount": 60
+	},
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "GLORIA HIGH LOGO SNEAKER - 1",
+        "id": "product-122",
+        "category": "Footwear",
+		"price": {
+            "display": 6650,
+            "actual": 324
+        },
+        "discount": 5
+    },
+    {
+		"img_url": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+        "name": "CATE RIGID BAG - 2",
+        "id": "product-123",
+        "category": "Accessories",
+		"price": {
+            "display": 838,
+            "actual": 324
+        },
+        "discount": 20
+	}
+]
